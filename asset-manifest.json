@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_typeScript.git/static/css/main.98fa9876.css",
+    "main.js": "/react_typeScript.git/static/js/main.651b06e2.js",
+    "index.html": "/react_typeScript.git/index.html",
+    "main.98fa9876.css.map": "/react_typeScript.git/static/css/main.98fa9876.css.map",
+    "main.651b06e2.js.map": "/react_typeScript.git/static/js/main.651b06e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98fa9876.css",
+    "static/js/main.651b06e2.js"
+  ]
+}
